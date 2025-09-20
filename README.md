@@ -14,6 +14,7 @@ MySQL Connector/J
 # Run
 
 Add Customer
+
 ![add customer ](https://github.com/user-attachments/assets/b40f7942-788a-498a-a712-7c4fa4717374)
 
 View All Customers
